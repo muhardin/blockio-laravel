@@ -2,7 +2,7 @@
     "name": "dexcode/blockio-laravel",
     "description": "Laravel Blockio",
     "type": "library",
-    "license": "DEX",
+    "license": "MIT",
     "authors": [
         {
             "name": "Muhardin Hasim",
